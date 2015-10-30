@@ -1,6 +1,6 @@
-c:\users\alexandr\documents\visual studio 2012\Projects\Mixin\Mixin\bin\Debug\Mixin.exe.config
-c:\users\alexandr\documents\visual studio 2012\Projects\Mixin\Mixin\bin\Debug\Mixin.exe
-c:\users\alexandr\documents\visual studio 2012\Projects\Mixin\Mixin\bin\Debug\Mixin.pdb
-c:\users\alexandr\documents\visual studio 2012\Projects\Mixin\Mixin\obj\Debug\Mixin.csprojResolveAssemblyReference.cache
-c:\users\alexandr\documents\visual studio 2012\Projects\Mixin\Mixin\obj\Debug\Mixin.exe
-c:\users\alexandr\documents\visual studio 2012\Projects\Mixin\Mixin\obj\Debug\Mixin.pdb
+c:\users\alexandr\documents\visual studio 2015\Projects\Mixin\Mixin\bin\Debug\Mixin.exe.config
+c:\users\alexandr\documents\visual studio 2015\Projects\Mixin\Mixin\bin\Debug\Mixin.exe
+c:\users\alexandr\documents\visual studio 2015\Projects\Mixin\Mixin\bin\Debug\Mixin.pdb
+c:\users\alexandr\documents\visual studio 2015\Projects\Mixin\Mixin\obj\Debug\Mixin.csprojResolveAssemblyReference.cache
+c:\users\alexandr\documents\visual studio 2015\Projects\Mixin\Mixin\obj\Debug\Mixin.exe
+c:\users\alexandr\documents\visual studio 2015\Projects\Mixin\Mixin\obj\Debug\Mixin.pdb

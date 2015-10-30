@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Mixin
 {
-    public interface MSurnameProvider
-    { }
+    interface IDocumentPersistentStorage
+    {
+        void Store(Document doc);
+    }
 }

@@ -1,18 +1,27 @@
 ﻿using System;
-using System.Runtime.CompilerServices;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace Mixin
 {
-    static class Test
+    class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            Human h = new Human("Vasya", 15);
-            h.SetSurname("Pupkin");
-            Console.WriteLine("Name {0}, Surname {1}, Age {2}", h.GetName(), h.GetSurname(), h.GetAge());
-            
-            Human h2 = new Human("Alexandr", 19);
-            h2.SetSurname("Namankevich");
-            Console.WriteLine("Name {0}, Surname {1}, Age {2}", h2.GetName(), h2.GetSurname(), h2.GetAge());
+            try
+            {
+                Document doc = new Document();
+                Document spDoc = new SpecialDocument();
+
+                doc.Store();
+                spDoc.Store();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }

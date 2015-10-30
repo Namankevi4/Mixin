@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace Mixin
 {
-    public class Nature
+    public class Document
     {
-        public int Age;
-        public int GetAge()
+        public virtual string ID
         {
-            return Age;
+            get { return "Document"; }
         }
     }
 }
